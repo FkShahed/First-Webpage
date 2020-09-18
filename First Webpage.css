@@ -1,0 +1,76 @@
+body{
+    background-color: #D14836;
+    margin-left: 15px;
+}
+#first-heading {
+    margin-left: 20px;
+    color:white;
+}
+#second-heading {
+    margin-left: 20px;
+    color: white;
+}
+#first-div {
+    background-color: white;
+}
+#first-div ul{
+    float: right;
+    margin-right: 15px;
+}
+
+#first-div ul li {
+    list-style-type: none;
+    margin-bottom: 30px;
+}
+#first-div ul li a{
+    background-color: #D14836 ;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: ivory;
+    border-radius: 40px;
+    border:#D14836 solid 1px ;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+
+}
+#first-div ul li a:hover{
+    background-color: white;
+    color: #D14836;
+
+
+}
+
+#third-div {
+    background-color: #F6DAD7;
+    padding: 10px;
+}
+
+#last{
+    text-align: center;
+    color: white;
+}
+
+#second-div {
+    padding: 10px;
+}
+#para1 a{
+    color: #D14836;
+    text-decoration: none;
+}
+#para1 a:hover{
+    text-decoration: underline;
+
+}
+
+#para2 a{
+    color: #D14836;
+    text-decoration: none;
+}
+#para2 a:hover{
+    text-decoration: underline;
+
+}
